@@ -1,0 +1,11 @@
+*.rel
+*.map
+*.elf
+
+build/
+.idea/
+.vscode/settings.json
+
+**/MakeSD/
+**/CreateSD.bat
+**/.idea
